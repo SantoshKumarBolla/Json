@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="JSONWebApp.AJ.NorthService" CodeBehind="NorthService.svc.cs" %>

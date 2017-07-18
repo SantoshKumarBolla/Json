@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product>
+    <productId>1</productId>
+    <productName>Spartan</productName>
+    <unitPrice>180</unitPrice>
+  </product>
+  <product>
+    <productId>2</productId>
+    <productName>Spalding</productName>
+    <unitPrice>200</unitPrice>
+  </product>
+  <product>
+    <productId>3</productId>
+    <productName>Dukes</productName>
+    <unitPrice>90</unitPrice>
+  </product>
+</products>
